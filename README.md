@@ -19,7 +19,7 @@
 
 ## Technologies and Programming Languages
 
-<img src="https://skillicons.dev/icons?i=py,django,vscode,notion,qt,latex,react,vue,svelte,ts" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=py,django,docker,vscode,notion,qt,latex,react,vue,svelte,ts" alt="Skills" />
 
 
 ## Hobbies
