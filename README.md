@@ -1,14 +1,12 @@
 <h1 align="center">
-  <b>Welcome to my GitHub Profile</b>  
+  <b>🚀 Aomail Beta Released 👉 <a href="https://aomail.ai/" target="_blank">https://aomail.ai/</a> 👈</b>  
 </h1>
-<p align="center">👋 I'm teloryfrozy 😁</p>
-
 
 ## Current Focus
 
-<p>🌱 I am currently preparing my apprenticeship for the next 3 years</p>
-<p>🚀 I am working on an entrepreneurial project about automation with AI...</p>
+<p>🏫 3rd year student at <a href="https://www.esaip.org/">ESAIP</a></p>
 <p>🧑‍💻 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/></p>
+
 
 ## Languages
 
