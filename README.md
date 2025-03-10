@@ -1,6 +1,7 @@
-<h1 align="center">
-  <b>🚀 Aomail Beta Released 👉 <a href="https://aomail.ai/" target="_blank">https://aomail.ai/</a> 👈</b>  
-</h1>
+<div align="center">
+  <h1>Open Source Email Assistant</h1>
+  <h1>👉 <a href="https://aomail.ai/" target="_blank">https://aomail.ai/</a> 👈</h1>
+</div>
 
 ## Current Focus
 
@@ -10,9 +11,8 @@
 
 ## Languages
 
-<p>Fluent in 🇺🇸 (C1) and 🇫🇷 (Native)</p>
+<p>Fluent in 🇺🇸 and 🇫🇷</p>
 <p>Learning 🇩🇪 at a B1 level</p>
-<p>Just started to learn 🇺🇿</p>
 
 
 ## Technologies and Programming Languages
