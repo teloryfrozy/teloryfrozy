@@ -3,10 +3,9 @@
   <h1>👉 <a href="https://aomail.ai/" target="_blank">https://aomail.ai/</a> 👈</h1>
 </div>
 
-## Current Focus
+## Technologies I am currently learning
 
-<p>🏫 3rd year student at <a href="https://www.esaip.org/">ESAIP</a></p>
-<p>🧑‍💻 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/></p>
+<img src="https://skillicons.dev/icons?i=gcp,azure,linux,bootstrap&perline=4"/>
 
 
 ## Languages
@@ -15,7 +14,7 @@
 <p>Learning 🇩🇪 at a B1 level</p>
 
 
-## Technologies and Programming Languages
+## Technologies and Programming Languages I have relevant experience with
 
 <img src="https://skillicons.dev/icons?i=py,django,docker,vscode,notion,qt,latex,react,vue,svelte,ts" alt="Skills" />
 
