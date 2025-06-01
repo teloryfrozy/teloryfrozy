@@ -1,8 +1,3 @@
-<div align="center">
-  <h1>Open Source Email Assistant</h1>
-  <h1>👉 <a href="https://aomail.ai/" target="_blank">https://aomail.ai/</a> 👈</h1>
-</div>
-
 ## Technologies I am currently learning
 
 <img src="https://skillicons.dev/icons?i=gcp,azure,linux,bootstrap&perline=4"/>
