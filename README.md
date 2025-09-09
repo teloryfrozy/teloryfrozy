@@ -1,8 +1,7 @@
-## Things I am doing this summer
+## Current focus
 
-<p>🧑‍💻 Working with AlphaEdge on our latest AI pipeline!</p>
+<p>🧑‍💻 Learning banking concepts and rules</p>
 <p>🍉🍊🥒 Selling fruits and veggies on French markets :)</p>
-<p>🛤️ Finding an apartment in Paris near La Défense</p>
 
 
 ## Technologies I am currently learning
@@ -23,9 +22,7 @@
 
 ## Hobbies
 
-<p>📈 I am interested in investment and trying to understand the economy</p>
-<p>🌐 I like meeting people from everywhere and working with them</p>
-<p>🚴 I love cycling, both outdoors and indoors, combined with lifting weights</p>
+<p>📈 Work, Cycling, Business</p>
 
 
 <!---
